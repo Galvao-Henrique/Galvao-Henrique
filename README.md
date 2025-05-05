@@ -1,7 +1,6 @@
 <h2 align="center">Henrique Galvão Freitas Pires</h2>
 
 ###
-**'Desenvolvedor de Software'**
 
 <p align="left">Olá! Meu nome é Henrique Galvão, sou estudante de Ciência da Computação na Universidade Paulista (UNIP) e entusiasta de tecnologia e desenvolvimento de software. <br><br>Atualmente, estou em constante aprendizado, explorando áreas como desenvolvimento web, lógica de programação, segurança da informação, inteligência artificial e ciência de dados. Busco estágio na área de Tecnologia da Informação.<br><br>Participei da equipe Vinci, formada por colegas do curso, onde colaborei em projetos de front-end e back-end como parte das atividades acadêmicas. Essa experiência contribuiu significativamente para meu desenvolvimento técnico e para o trabalho em grupo. Em 2024 conquistamos a primeira colocação da Competição X Desafio entre os cursos tecnologia da universidade e estamos em busca de defender o título novamente em 2025<br><br>Este repositório é parte do meu portfólio, onde compartilho meus projetos, aprendizados e evoluções na área da tecnologia.</p>
 
