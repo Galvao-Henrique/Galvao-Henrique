@@ -1,8 +1,6 @@
 ![grvonvonvn](Space.png)
 
-<hr style="height:1px; border:none; background-color:#ccc;" />
-
-## Um Pouco Sobre Mim
+# Um Pouco Sobre Mim
 
 Olá! Meu nome é **Henrique Galvão**, sou estudante de **Ciência da Computação** na Universidade Paulista (UNIP) e entusiasta de tecnologia e desenvolvimento de software. Ao longo da minha trajetória, desenvolvi habilidades essenciais como **disciplina**, **organização**, **persistência** e **foco no cumprimento de metas**.
 
@@ -33,9 +31,8 @@ Atualmente, estou em constante aprendizado, explorando áreas como:
   </a>
 </p>
 
-<hr style="height:1px; border:none; background-color:#ccc;" />
 
-## Minhas Estatísticas
+# Minhas Estatísticas
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Galvao-Henrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -43,18 +40,15 @@ Atualmente, estou em constante aprendizado, explorando áreas como:
 </div>
 <br>
 
-## 🚀 Metas para 2025
+# 🚀 Metas para 2025
 - Aumentar contribuições em cursos complementares e atividades extracurriculares.
 - Desenvolver mais projetos pessoais e academicos 
 - Melhorar minhas estatísticas no GitHub
 - Aprender mais sobre Java, Python, Banco de Dados, segurança da informação e novas tecnologias.
 
-<hr style="height:1px; border:none; background-color:#ccc;" />
+# 🛠 Linguagens e Tecnologias  
 
-
-## 🛠 Linguagens e Tecnologias  
-
-### Front-end:  
+## Front-end:  
 <div align="center" style="display: flex; justify-content: left; gap: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" style="margin: 0px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" style="margin: 0px;" />
@@ -63,7 +57,7 @@ Atualmente, estou em constante aprendizado, explorando áreas como:
 
 <br>
 
-### Back-end:  
+## Back-end:  
 <div align="center" style="display: flex; justify-content: left; gap: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="margin: 0px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" style="margin: 0px;" />
@@ -71,16 +65,11 @@ Atualmente, estou em constante aprendizado, explorando áreas como:
 
 <br>
 
-### Ferramentas:  
+## Ferramentas:  
 <div align="center" style="display: flex; justify-content: left; gap: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" style="margin: 0px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" style="margin: 0px;" />
 </div>
 
-<hr style="height:1px; border:none; background-color:#ccc;" />
-
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/Galvao-Henrique/Galvao-Henrique/output/snake.svg" alt="Snake animation" />
-
-###
