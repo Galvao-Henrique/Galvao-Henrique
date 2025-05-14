@@ -79,4 +79,4 @@ Atualmente, estou em constante aprendizado, explorando áreas como:
 
 <hr style="height:1px; border:none; background-color:#ccc;" />
 
-![snake animation](https://github.com/Galvao-Henrique/Galvao-Henrique/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<Galvao-Henrique>/Galvao-Henrique>/blob/output/github-contribution-grid-snake2.svg)
