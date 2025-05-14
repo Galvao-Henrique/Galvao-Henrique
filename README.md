@@ -48,7 +48,7 @@ Atualmente, estou em constante aprendizado, explorando áreas como:
 
 # 🛠 Linguagens e Tecnologias  
 
-## Front-end:  
+### Front-end:  
 <div align="center" style="display: flex; justify-content: left; gap: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" style="margin: 0px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" style="margin: 0px;" />
@@ -57,7 +57,7 @@ Atualmente, estou em constante aprendizado, explorando áreas como:
 
 <br>
 
-## Back-end:  
+### Back-end:  
 <div align="center" style="display: flex; justify-content: left; gap: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="margin: 0px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" style="margin: 0px;" />
@@ -65,7 +65,7 @@ Atualmente, estou em constante aprendizado, explorando áreas como:
 
 <br>
 
-## Ferramentas:  
+### Ferramentas:  
 <div align="center" style="display: flex; justify-content: left; gap: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" style="margin: 0px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" style="margin: 0px;" />
